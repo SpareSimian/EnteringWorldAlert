@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: EnteringWorldAlert
+## Notes: Play a sound once the game is playable
+## Author: SpareSimian
+## Version: 0.1
+
+main.lua
