@@ -1,7 +1,8 @@
-## Interface: 110002
+## Interface: 110100
 ## Title: EnteringWorldAlert
 ## Notes: Play a sound once the game is playable
 ## Author: SpareSimian
 ## Version: 0.1
+## Category: Map
 
 main.lua
